@@ -1,0 +1,38 @@
+{
+  "provider": "google_pay",
+  "data": {
+    "environment": "PRODUCTION",
+    "apiVersion": 2,
+    "apiVersionMinor": 0,
+    "allowedPaymentMethods": [
+      {
+        "type": "CARD",
+        "tokenizationSpecification": {
+          "type": "PAYMENT_GATEWAY",
+          "parameters": {
+            "gateway": "stripe",
+            "stripe:version": "2020-08-27",
+            "stripe:publishableKey": "pk_live_51IJcgHI3kUuPjRdVNvevID4sI4KaYo2HemI1xvt3ypMbaNmdXEZKAVtdoZ5CSoG1cPGzKZXA1iKHu5vtDRUQgcPX00ntlouHcv"
+          }
+        },
+        "parameters": {
+          "allowedCardNetworks": ["VISA", "MASTERCARD"],
+          "allowedAuthMethods": ["PAN_ONLY", "CRYPTOGRAM_3DS"],
+          "billingAddressRequired": true,
+          "billingAddressParameters": {
+            "format": "FULL",
+            "phoneNumberRequired": true
+          }
+        }
+      }
+    ],
+    "merchantInfo": {
+      "merchantId": "17219220232680698158",
+      "merchantName": "Nick"
+    },
+    "transactionInfo": {
+      "countryCode": "AU",
+      "currencyCode": "AUD"
+    }
+  }
+}

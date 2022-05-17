@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "758339846865",
+    "project_id": "super-cab-59ea5",
+    "storage_bucket": "super-cab-59ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758339846865:android:98b7dcc4ddaafa2deb3bf0",
+        "android_client_info": {
+          "package_name": "com.flutter.stripe.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758339846865-grrcvtnbl1kc8obeoqqbnpqsvogih9v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHKFkjp3SqoZZ8aQO9XPiTKIPs_QWj4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758339846865-grrcvtnbl1kc8obeoqqbnpqsvogih9v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758339846865:android:610ed7ce2cd02873eb3bf0",
+        "android_client_info": {
+          "package_name": "com.utechware.supercab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758339846865-1m38b11lis6pjlrh4he1apsjibl479m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.supercab",
+            "certificate_hash": "b94e4acad682ae7152d7bb83ea68a032e551eadf"
+          }
+        },
+        {
+          "client_id": "758339846865-7su6r73rv0jcn19gn7189hdasvruh15t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.supercab",
+            "certificate_hash": "f22205df089afc726f797f575139971ad164a8cd"
+          }
+        },
+        {
+          "client_id": "758339846865-ad3os9fgpo2vstmbgrm7kirlofoboqem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.supercab",
+            "certificate_hash": "55109d0b0e896615d0232d23bd5647143c1f2a77"
+          }
+        },
+        {
+          "client_id": "758339846865-h1dbi82rbr2cuuau3aan7aguconm7gkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.supercab",
+            "certificate_hash": "df3f1e8e9dbe4efe5a3a305aa4ab14f6fad4e1da"
+          }
+        },
+        {
+          "client_id": "758339846865-grrcvtnbl1kc8obeoqqbnpqsvogih9v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHKFkjp3SqoZZ8aQO9XPiTKIPs_QWj4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758339846865-grrcvtnbl1kc8obeoqqbnpqsvogih9v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758339846865:android:762fd96bf871bb34eb3bf0",
+        "android_client_info": {
+          "package_name": "com.utechware.supercab_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758339846865-grrcvtnbl1kc8obeoqqbnpqsvogih9v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHKFkjp3SqoZZ8aQO9XPiTKIPs_QWj4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758339846865-grrcvtnbl1kc8obeoqqbnpqsvogih9v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758339846865:android:c71289633282cc1ceb3bf0",
+        "android_client_info": {
+          "package_name": "com.utechware.thesupercab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758339846865-969ldrpitkb3p83c2fs3flsntakmhcdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.thesupercab",
+            "certificate_hash": "58cf4b2560e6d7b966c6213ece2ebd5e6751f5a5"
+          }
+        },
+        {
+          "client_id": "758339846865-b6jg5c4b5e4eilo3aij60gokim8l1io7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.thesupercab",
+            "certificate_hash": "3855ce4db3210aacf23b836822bef58009ccd688"
+          }
+        },
+        {
+          "client_id": "758339846865-d23v3u1ffq8i495k871o7kctmm2rci5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.thesupercab",
+            "certificate_hash": "f22205df089afc726f797f575139971ad164a8cd"
+          }
+        },
+        {
+          "client_id": "758339846865-u7tklsgkq2ipuhg37j170rpph0pdm2pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.thesupercab",
+            "certificate_hash": "f3f1ab03c9f615679c860eaca90540a5d5703657"
+          }
+        },
+        {
+          "client_id": "758339846865-grrcvtnbl1kc8obeoqqbnpqsvogih9v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHKFkjp3SqoZZ8aQO9XPiTKIPs_QWj4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758339846865-grrcvtnbl1kc8obeoqqbnpqsvogih9v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
